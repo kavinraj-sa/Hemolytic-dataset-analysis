@@ -1,7 +1,3 @@
-Here is a clean, GitHub‑ready `README.md` based on your description:
-
-***
-
 # Hemolytic Peptide Activity Prediction
 
 Machine learning pipeline to predict the hemolytic activity of peptides using physicochemical and compositional features extracted from amino acid sequences. The models are trained on data derived from Hemolytik 2.0, an updated, manually curated database of experimentally validated hemolytic and non‑hemolytic peptides. [webs.iiitd.edu](https://webs.iiitd.edu.in/raghava/hemolytik2/)
